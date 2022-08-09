@@ -1,1 +1,6 @@
 # LandingPage
+The goal of this project was to create a landing page using the tools I've learned leading up to this project which are HTML, CSS, Bootstrap, and CSS Animation.
+I started with a free template from CreativeTim called PaperKit 2 and made it my own with the help of resources like HappyHues for color scheme, Pexels.com for some royalty free stock images, and influence from other landing page examples.
+I Strictly wanted to only have an html file, so I resorted to using inline css/bootstrap to create this landing page.
+The biggest challenge I faced was implimenting a carousel within the landing page. There were many problems that arose in this section, but what I learned is that with the amount of <div></divs> that were used to create all of the corresponding slides it is important to make sure that whatever div you have open also has a respective closing tag. Otherwise lines of code will bleed into each other causing more work for you.
+The biggest takeaways from this were understanding the difference between <div> and <span> as well as how to use them. The other takeaway was spacing with bootstrap such as mx, mt, ml, etc. admittedly these takeaways are something i will need more practice with moving forward.
